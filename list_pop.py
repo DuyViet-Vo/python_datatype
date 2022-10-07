@@ -1,3 +1,3 @@
 thislist = ['apple', 'banana', 'cherry']
-thislist.remove('cherry')
+thislist.pop(1)
 print(thislist)

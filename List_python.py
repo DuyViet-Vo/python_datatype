@@ -1,4 +1,3 @@
-fruits=['banana', 'apple', 'mango']
+fruits = ['banana', 'apple', 'mango']
 for i in range(len(fruits)):
-    print ('current fruit: ',fruits[i])
-    
+    print('current fruit: ', fruits[i])
