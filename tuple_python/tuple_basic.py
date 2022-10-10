@@ -2,7 +2,7 @@
 my_tuple = ("freetuts", [8, 4, 6], (1, 2, 3))
 print(my_tuple)
 # Kết quả: ("freetuts", [8, 4, 6], (1, 2, 3))
- 
+
 # tuple có thể được tạo bằng cách bỏ đi cặp ngoặc đơn
 my_tuple = 3, 4.6, "blog"
 print(my_tuple)
